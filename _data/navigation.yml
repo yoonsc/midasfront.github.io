@@ -1,16 +1,14 @@
 main:
-  - title: Getting Started
+  - title: 빠른제작가이드
     children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
-      - title: "Structure"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
+      - title: "분양"
+        url: /guide/sales-quick-guide/
+      - title: "일반구축"
+        url: /guide/normal-quick-guide/
+      - title: "반응형웹"
+        url: /guide/responsive-quick-guide/
 
-  - title: Customization
+  - title: 
     children:
       - title: "Configuration"
         url: /docs/configuration/
@@ -23,7 +21,7 @@ main:
       - title: "Layouts"
         url: /docs/layouts/
 
-  - title: Content
+  - title: 모듈
     children:
       - title: "Working with Posts"
         url: /docs/posts/
