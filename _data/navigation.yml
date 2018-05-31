@@ -1,5 +1,5 @@
 main:
-  - title: 빠른제작가이드
+  - title: 제작가이드
     children:
       - title: "분양"
         url: /_guide/normal-quick-guide/metaset
