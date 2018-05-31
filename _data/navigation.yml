@@ -2,7 +2,7 @@ main:
   - title: 빠른제작가이드
     children:
       - title: "분양"
-        url: /guide/sales-quick-guide/
+        url: /_guide/normal-quick-guide/metaset
       - title: "일반구축"
         url: /guide/normal-quick-guide/
       - title: "반응형웹"
