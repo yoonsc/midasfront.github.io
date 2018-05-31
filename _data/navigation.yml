@@ -3,11 +3,11 @@ main:
   - title: "About"
     url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Posts"
-    url: /year-archive/
+    url: /guide/normal-quick-guide/
   - title: "Collections"
-    url: /collection-archive/
+    url: /guide/normal-quick-guide/
   - title: "Sitemap"
-    url: /sitemap/
+    url: /guide/normal-quick-guide/
 
 # sidebar navigation list sample
 sidebar-sample:
