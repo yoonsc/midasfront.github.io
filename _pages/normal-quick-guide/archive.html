@@ -3,6 +3,9 @@ layout: archive
 permalink: /normal-quick-guide/
 title: "Posts by Month"
 author_profile: true
+toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
 ---
 {% assign postsByMonth = site.posts | group_by_exp:"post", "post.date | date: '%b %Y'" %}
 
