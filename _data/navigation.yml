@@ -1,13 +1,11 @@
 # main links links
 main:
-  - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Posts"
-    url: /_guide/normal-quick-guide/
-  - title: "Collections"
-    url: /_guide/normal-quick-guide/
-  - title: "Sitemap"
-    url: /_guide/normal-quick-guide/
+  - title: "Getting Start"
+    url: /normal-quick-guide/index/
+  - title: "test1"
+    url: /normal-quick-guide/
+  - title: "test2"
+    url: /normal-quick-guide/
 
 # sidebar navigation list sample
 sidebar-sample:

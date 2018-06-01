@@ -58,8 +58,8 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
-search_full_content      : # true, false (default)
+search                   : true
+search_full_content      : true
 search_provider          : # lunr (default), algolia, google
 algolia:
   application_id         : # YOUR_APPLICATION_ID
@@ -102,9 +102,9 @@ analytics:
 author:
   name             : "SungChul Yoon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "마이다스아이티 퍼블리싱파트"
-  location         : "korea"
-  email            :
+  bio              : "퍼블리싱파트 가이드 연습"
+  location         : "Seoul,Korea"
+  email            : "yoonsc@midasit.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -113,7 +113,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "midasfront"
   gitlab           :
   google_plus      :
   keybase          :
