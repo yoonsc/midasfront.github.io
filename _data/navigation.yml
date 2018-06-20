@@ -20,16 +20,14 @@ foo:
 
 # main links
 main:
-  - title: "Quick-Start Guide"
+  - title: "menu1"
     url: /docs/quick-start-guide/
-  - title: "About"
+  - title: "menu2"
     url: /about/
-  - title: "Sample Posts"
+  - title: "menu3"
     url: /year-archive/
-  - title: "Sample Collections"
+  - title: "menu4"
     url: /collection-archive/
-  - title: "Terms &amp; Privacy Policy"
-    url: /terms/
 
 
 # documentation links
